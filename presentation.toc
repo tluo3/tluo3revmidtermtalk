@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.22pt}
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@sectionintoc {2}{Problem Statement}{4}{0}{2}
+\beamer@sectionintoc {3}{Approach of Task 1}{11}{0}{3}
+\beamer@sectionintoc {4}{Approach of Task 2 and 3}{12}{0}{4}
+\beamer@sectionintoc {5}{Deliverables}{15}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{17}{0}{6}
