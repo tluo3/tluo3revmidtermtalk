@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: presentation.aux
+The style file: plain.bst
+Database file #1: Biblio.bib
+I was expecting a `,' or a `}'---line 13 of file Biblio.bib
+ :  
+ :  PUBLISHER = {Jabre Capital},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 17 of file Biblio.bib
+ : 
+ : %    AUTHOR = {{Ricardo Gutierrez-Osuna}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 28 of file Biblio.bib
+ :  
+ :  PUBLISHER = {Inside Monkey},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 31 of file Biblio.bib
+ : @misc{FY
+ :         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 41 of file Biblio.bib
+ : %@misc{IM
+ :          ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 54 of file Biblio.bib
+ :     
+ :     %Note = {\\ \\ A standard textbook on astrodynamics. It provided a reference for orbital mechanics and satellite propagation.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 63 of file Biblio.bib
+ :   
+ :   %  Note = {\\ \\ Focuses on a few of the most important clustering
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 74 of file Biblio.bib
+ : 
+ : % note = {\\ \\ Outlines a smallest circle algorithm that runs in linear time using recursion.}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 78 of file Biblio.bib
+ : @article{im
+ :            ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 92 of file Biblio.bib
+ : 
+ : % NOTE = {\\ \\ Gives a thorough background to projective geometry and vertical perspective projection. This includes details about calculating projections using homogeneous coordinates and projection matrices.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in FY
+(There were 10 error messages)

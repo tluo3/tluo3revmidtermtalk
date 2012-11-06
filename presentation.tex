@@ -253,23 +253,11 @@ In our approach, we will use the return performance of a stock rather than price
 
 Thus, to help Jabre Capital with its challenges, our approach will be divided into following steps:
 \begin{enumerate}
-\item Get historical prices of stocks ever on Jabre Capital's list in 2011, and develop historical return ratios accordingly,
-\item Divide stocks accroding to industries they are in, and list important macro econimic factors(such as matrial prices) to a specific industry,
-\item Gather historical data of the macro econimic factors, and decide whether these factors are favorable to stock performance or not,
+\item Get historical prices of stocks on Jabre Capital's list from quater to quarter in 2011, and develop historical return ratios accordingly,
+\item Figure out which stocks Jabre Capital holds for an entire year, and conduct PCA analysis
+\item Conduct PCA analysis from quarter to quarter, and see whether the additional stock holdings improve the diversification of the portfolio
+\item If the divesification worsens, divide stocks by industry, eliminate similar stocks, and elect one that can explain the majority of the unsystematic risk of the industry based on PCA analysis of stocks in the same industry.
 \end{enumerate}
-\end{frame}
-
-\begin{frame}
-    \frametitle{Problem Solving based on PCA}
-\begin{itemize}
-\item If macro econimc fators are favorable or neutral to a certain industry, apply Principal Component Analysis to find whether there is a specific return pattern in the industry,
-	\begin{itemize}
-	\item If there is a certain pattern, elect one stock with highest average return ratio and minimized risk to represent a specific industry,
-	\item If there is no such pattern, divide stocks in the same industry into subcatogries to find whether there is a certain pattern or not, until the number of stocks in this industry decreases by 80\% which corresponds to the portfolio value loss.
-	\end{itemize}
-\item If macro ecnomic factors are not favorable to a certain industry, decide whether to exit this industry or not, by referring to authorized third party opnions about the factor's future trends.
-\end{itemize} 
-
 \end{frame}
 
 \section{Deliverables}
@@ -278,9 +266,9 @@ Thus, to help Jabre Capital with its challenges, our approach will be divided in
 The following outputs are expected from this project:
 \begin{itemize}
     \item Software of finding support and resistance line,
-    \item Return of Investment charts and data of all the stocks Jabre Capital invested in 2011,
-    \item Principal component analysis of all the stocks, stocks in each industry, stocks in each subcategory,
-    \item Suggestions about a narrowed portfolio list,
+    \item Return of Investment charts and data of stocks Jabre Capital invested in 2011,
+    \item Principal component analysis of the stocks held for an entire year, stocks in the same quarter and stocks in the same industry,
+    \item Suggestions about a diversified and narrowed portfolio list,
     \item R package with a complete set of documentations along with some test codes that can be used to reproduce simulation results,
     \item Technical report and presentations summarizing the work. 
 \end{itemize}
@@ -293,9 +281,8 @@ In order for our project to be of successful one, we will need:
 \begin{itemize}
     \item Provide lists of stocks Jabre Capital held in 2011, and access to all the price charts and data of these stocks before Oct 26,2012
      \item Timely responses to inquiries, 
-    \item Symposium attendance travel expenses.
+  %  \item Symposium attendance travel expenses.
 \end{itemize}
-
 
 \end{frame}
 
@@ -335,5 +322,12 @@ It fulfills the goal of the algorithm quite well.However, it is not good enough 
 \item Apply R to calculate covariance matrix, apply PCA analysis in Task 2\&3,
 \item Optimize the stock selection.
 \end{itemize}
+\end{frame}
+
+\begin{frame}[allowframebreaks]{Bibliography}
+\frametitle{Reference}
+\bibliographystyle{plain}
+\nocite{*}
+\bibliography{Biblio}
 \end{frame}
 \end{document}
