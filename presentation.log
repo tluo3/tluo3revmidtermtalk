@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.14)  5 NOV 2012 19:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.14)  5 NOV 2012 20:37
 entering extended mode
-**C:/Users/Tianyu*Luo/midtermpresentation/presentation.tex
-("C:/Users/Tianyu Luo/midtermpresentation/presentation.tex"
+**C:/Users/Tianyu*Luo/tluo3revmidtermtalk/presentation.tex
+("C:/Users/Tianyu Luo/tluo3revmidtermtalk/presentation.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -957,7 +957,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\beamer@shortdate' on input line 56.
 
-("C:\Users\Tianyu Luo\midtermpresentation\presentation.aux"
+("C:\Users\Tianyu Luo\tluo3revmidtermtalk\presentation.aux"
 
 LaTeX Warning: Label `fig:rs' multiply defined.
 
@@ -1040,8 +1040,8 @@ LaTeX Info: Redefining \ref on input line 56.
 LaTeX Info: Redefining \pageref on input line 56.
 LaTeX Info: Redefining \nameref on input line 56.
 
-("C:\Users\Tianyu Luo\midtermpresentation\presentation.out")
-("C:\Users\Tianyu Luo\midtermpresentation\presentation.out")
+("C:\Users\Tianyu Luo\tluo3revmidtermtalk\presentation.out")
+("C:\Users\Tianyu Luo\tluo3revmidtermtalk\presentation.out")
 \@outlinefile=\write6
 \symnumbers=\mathgroup11
 \sympureletters=\mathgroup12
@@ -1106,10 +1106,10 @@ LaTeX Info: Redefining \includegraphics on input line 56.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-("C:\Users\Tianyu Luo\midtermpresentation\presentation.nav") [1
+("C:\Users\Tianyu Luo\tluo3revmidtermtalk\presentation.nav") [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("C:\Users\Tianyu Luo\midtermpresentation\presentation.toc")
+("C:\Users\Tianyu Luo\tluo3revmidtermtalk\presentation.toc")
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 65.
@@ -1128,7 +1128,7 @@ Package pdftex.def Info: images/1.png used on input line 110.
 
 [5
 
- <C:/Users/Tianyu Luo/midtermpresentation/images/1.png>]
+ <C:/Users/Tianyu Luo/tluo3revmidtermtalk/images/1.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 127
 .
 LaTeX Font Info:    No file OMScmss.fd. on input line 127.
@@ -1145,7 +1145,7 @@ Package pdftex.def Info: images/2.png used on input line 127.
 (pdftex.def)             Requested size: 180.67499pt x 85.69331pt.
  [6
 
- <C:/Users/Tianyu Luo/midtermpresentation/images/2.png>]
+ <C:/Users/Tianyu Luo/tluo3revmidtermtalk/images/2.png>]
 <images/6.png, id=129, 712.6625pt x 340.27126pt>
 File: images/6.png Graphic file (type png)
  <use images/6.png>
@@ -1157,7 +1157,7 @@ Overfull \vbox (6.07332pt too high) detected at line 145
 
 [7
 
- <C:/Users/Tianyu Luo/midtermpresentation/images/6.png>] [8
+ <C:/Users/Tianyu Luo/tluo3revmidtermtalk/images/6.png>] [8
 
 ]
 <images/7.png, id=154, 633.36626pt x 837.1275pt>
@@ -1167,7 +1167,7 @@ Package pdftex.def Info: images/7.png used on input line 171.
 (pdftex.def)             Requested size: 144.54pt x 191.04077pt.
  [9
 
- <C:/Users/Tianyu Luo/midtermpresentation/images/7.png>] [10
+ <C:/Users/Tianyu Luo/tluo3revmidtermtalk/images/7.png>] [10
 
 ]
 <images/5.png, id=178, 725.71124pt x 309.155pt>
@@ -1181,41 +1181,47 @@ Overfull \vbox (53.7727pt too high) detected at line 201
 
 [11
 
- <C:/Users/Tianyu Luo/midtermpresentation/images/5.png>] [12
-
-] [13
-
-] [14
+ <C:/Users/Tianyu Luo/tluo3revmidtermtalk/images/5.png>] [12
 
 ]
-[15
+<images/8.png, id=200, 652.68843pt x 293.59688pt>
+File: images/8.png Graphic file (type png)
+ <use images/8.png>
+Package pdftex.def Info: images/8.png used on input line 232.
+(pdftex.def)             Requested size: 307.28987pt x 138.23245pt.
+ [13
+
+ <C:/Users/Tianyu Luo/tluo3revmidtermtalk/images/8.png>] [14
+
+] [15
 
 ] [16
 
-] <images/3.png, id=245, 1028.34187pt x 490.83376pt>
+] [17
+
+]
+<images/3.png, id=258, 1028.34187pt x 490.83376pt>
 File: images/3.png Graphic file (type png)
-
-<use images/3.png>
-Package pdftex.def Info: images/3.png used on input line 285.
+ <use images/3.png>
+Package pdftex.def Info: images/3.png used on input line 300.
 (pdftex.def)             Requested size: 307.28987pt x 146.67456pt.
- [17
+ [18
 
- <C:/Users/Tianyu Luo/midtermpresentation/images/3.png (PNG copy)>] <images/4.p
-ng, id=257, 1028.34187pt x 490.83376pt>
+ <C:/Users/Tianyu Luo/tluo3revmidtermtalk/images/3.png (PNG copy)>]
+<images/4.png, id=270, 1028.34187pt x 490.83376pt>
 File: images/4.png Graphic file (type png)
-
-<use images/4.png>
-Package pdftex.def Info: images/4.png used on input line 297.
+ <use images/4.png>
+Package pdftex.def Info: images/4.png used on input line 312.
 (pdftex.def)             Requested size: 307.28987pt x 146.67456pt.
 pdfTeX warning (ext4): destination with the same identifier (name{fig:rs}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.297 \end{frame}
-                  [18
+l.312 \end{frame}
+                  [19
 
- <C:/Users/Tianyu Luo/midtermpresentation/images/4.png>]
-[19
+ <C:/Users/Tianyu Luo/tluo3revmidtermtalk/images/4.png>]
+[20
 
 ]
 \tf@nav=\write7
@@ -1232,11 +1238,11 @@ Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 Package caption Warning: Unused \captionsetup[subfigure] on input line 24.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
-("C:\Users\Tianyu Luo\midtermpresentation\presentation.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 308.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 308.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
+("C:\Users\Tianyu Luo\tluo3revmidtermtalk\presentation.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 9D426E33AF1532E150D78A6FB7467FC1;307.
 
@@ -1250,15 +1256,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 323.
  )
 (\end occurred when \ifx on line 56 was incomplete)
 (\end occurred when \unless\ifcsname on line 56 was incomplete) 
 Here is how much of TeX's memory you used:
- 17466 strings out of 493921
- 325361 string characters out of 3144861
- 428719 words of memory out of 3000000
- 20305 multiletter control sequences out of 15000+200000
+ 17477 strings out of 493921
+ 325492 string characters out of 3144861
+ 428775 words of memory out of 3000000
+ 20312 multiletter control sequences out of 15000+200000
  7170 words of font info for 26 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  49i,15n,53p,442b,572s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1271,9 +1277,9 @@ iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on presentation.pdf (19 pages, 245513 bytes).
+Output written on presentation.pdf (20 pages, 351456 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 335 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 

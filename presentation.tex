@@ -206,14 +206,29 @@ My approach for task 1 is as follows:
 Principal component analysis (PCA) is:\\
 A mathematical procedure that converts a set of observations of possibly correlated variables into a set of values of linearly uncorrelated eigenvectors. 
 
-Here is an example of PCA analysis:
+PCA steps are as follows:
 	\begin{enumerate}
 	\item Get some data and subtract the mean
 	\item Calculate the covariance matrix 
 	\item Calculate the eigenvectors and eignevalues of the covariance matrix
-	\item Choose components, form a feature vector, and approximately predict data from the data set
+	\item Choose components and form a feature vector to explain as much of the volatility of the data set as possible
 	\end{enumerate}
-It is a powerful method to find patterns in data of high dimension, and compress data to low dimension without losing much information.
+
+\color{red} PCA is a powerful method to find patterns in data of high dimension, and compress data to low dimension without losing much information.
+\end{frame}
+
+\begin{frame}
+    \frametitle{Example of Principal Component Analysis(PCA)}
+Principal component analysis (PCA) is:\\
+Here's an example of PCA analysis. 
+The dimension has been reduced to 2 from 3, and we can still tell it is a penguin.
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=\textwidth]{images/8.png}
+\end{center}
+\caption{PCA analysis of a penguin image}
+\label{fig:penguin}
+\end{figure}
 \end{frame}
 
 \begin{frame}
